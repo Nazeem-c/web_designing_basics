@@ -1,0 +1,144 @@
+.container{
+    
+}
+
+
+
+
+.header{
+   background:#3b5998;
+    height: 85px;
+    width: 100%;
+    float: left;
+    
+}
+body{
+    margin: 0;
+    font-family:Helvetica, Arial, sans-serif;
+    
+}
+.logo{
+    width: 50%;
+    padding-top: 20px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-left: 100px;
+   
+}
+
+.logo-design{
+    color: beige; font-size: 150px; font-weight: bold; text-decoration:none;
+    margin-left: 270px;
+   font-size: 40px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.login-controls{
+    padding-top: 10px;
+    padding-left: 20px;
+
+}
+.login-design{
+    color: #fff;
+    font-weight: normal;
+    padding-left: 1px;
+    font-size: 12px;
+    
+}
+.submit-button{
+    padding-left: 10px;
+    background-color: #4267b2;
+    border-color: #29487d;
+    border-block-style: none;
+    color: #fff;
+   
+    border-radius: 1px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 12px;
+    -webkit-font-smoothing: antialiased;
+    font-weight: bold;
+    line-height: 18px;
+    padding: 2px 6px;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: none;
+    vertical-align: top;
+    white-space: nowrap;
+ 
+}
+.submit-button:hover{
+    background: #29487d;
+}
+    .main-body{
+        background:linear-gradient(white,#D3D8E8);
+    
+    direction: ltr;
+    line-height: 1.34;
+    width: 100%;
+    height: 600px;
+
+    }.left-body{
+        padding-left: 268px;
+        width: 40%;
+     margin: 0;
+        
+        height: 600px;
+        float: left;
+    }
+
+    .right-body{margin: 0;
+       
+        width: 40%;     
+        height: 600px;
+        float: left;
+    }
+    
+    .para-des{
+        padding-top: 15px;
+        font-size: 20px;
+    font-weight: bold;
+
+    }
+    .cret{
+        font-size: 35px;
+       
+    }
+    .para1{
+        font-size: 20px;
+        margin: 0;
+    }
+    #formatic{
+        height: 34px;
+                   width: 172pxpx;
+                   border-color: #bdc7d8;
+    border-radius: 5px;
+                   font-size: 18px;
+                padding-left: 10px;
+    }
+    .dot{
+        height: 20px;
+        width: 20px;
+        border-radius: 50%;
+        background-color: #757272;
+        display: inline-block;
+        border: 1px;
+        border-color: black;
+        
+    }
+   
+    .subm{
+        height: 40px;
+        width: 180px;
+        font-size: 19px;
+        margin: 10px;
+        font-weight: bold;
+        border-radius: 5px;
+        background: linear-gradient(#67ae55, #578843);
+        box-shadow: inset 0 1px 1px #a4e388;
+        color: cornsilk;
+        margin: 0;
+
+    }

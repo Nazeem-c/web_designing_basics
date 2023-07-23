@@ -1,0 +1,33 @@
+.main-body{
+    height: 363px;
+    width: 500px;
+    background: darkgray;
+    border: solid;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+#screen{
+    width: 328px;
+    height: 57px;
+    margin-left: 22px;
+    margin-top: 10px;
+    pointer-events: none;
+}
+.buttons{padding: 15px;
+    
+    
+}
+.row{ 
+    
+}
+.btn{
+    width: 101px;
+    height: 54px;
+    margin: 6px;
+    cursor: pointer;
+}
+.cler{
+    width: 100px;
+    height: 62px;
+    margin-left: 14px;
+}
